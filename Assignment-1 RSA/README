@@ -1,0 +1,1 @@
+After understanding RSA basics, I wrote the code to find values of Bézout's Identity then and then after a few modular calculation i was able to find the actual word and then using long_to_bytes function in python i got the flag
