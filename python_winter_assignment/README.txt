@@ -1,0 +1,1 @@
+First I extracted the .pyc file which i further put in pylingual from which i got a decompiled code in whose main function i found hex of string and operations done on it which were reversing, XOR and permutation so I wrote a script to do reverse of what was done(copy pasted the main code and changed operators to reverse it).

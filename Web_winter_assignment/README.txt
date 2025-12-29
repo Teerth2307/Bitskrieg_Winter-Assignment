@@ -1,0 +1,1 @@
+I first did hit and trial methods and found out the site was injecting HTML directly so then I searched up ways to inject it and get the cookies and used webhook and a online generated script which tried to load an image and it would fail so we put the exception(oneerror) as webhook url and add string document cookies to get the cookies hiding the flag

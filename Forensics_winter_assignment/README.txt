@@ -1,0 +1,1 @@
+The flag was divided in 5 parts the first part of flag was found in challenge.pdf, second in challenge.log, third in challenge.aux, fourth in artifact.sh and final one in subject of metadata of challenge.pdf(had to decode last one).
