@@ -1,0 +1,1 @@
+We first find the WIN address(instructions of print_flag are stored here) then we write a script that creates a note that has 16 bit chunck for the structure holding pointers then we delete it then we allocate a string whose first 8 bytes are WIN address and when we print it the print function goes to WIN address and runs that function and gives us the flag
